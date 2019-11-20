@@ -18,11 +18,11 @@ Please contact the [chairs][] for any changes required.
 
 |  Time | Who             | Subject                                                                                                                                                | Docs                                         |
 |-------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| 10:00 | Chairs          | Intro, RG status, upcoming meetings and activities                                                                                                     | [draft-irtf-t2trg-rest-iot][restiot]         |
+| 10:00 | Chairs          | Intro, RG status, upcoming meetings and activities                                                                                                     | [draft-irtf-t2trg-rest-iot][restiot] [draft-hong-t2trg-iot-edge-computing](https://tools.ietf.org/html/draft-hong-t2trg-iot-edge-computing-01)        |
 | 10:10 | Chairs, various | Report from [WISHI][], [Pre-IETF workshop with W3C WoT][pre106wot], [Hackathon][WISHI hackathon], and [CoRE Applications side-meeting][core-apps-side] | [draft-petrov-t2trg-youpi](https://tools.ietf.org/html/draft-petrov-t2trg-youpi-01)                                             |
 | 10:35 | Michael Koster  | Activities on IoT data model convergence                                                                                                               |                                              |
 | 11:00 | Michael McCool  | [W3C Web of Things][W3CWoT] WG/IG update                                                                                                               |                                              |
-| 11:15 |                 | Discussion of IoT operations/security management/onboarding/lifecycle/applications-network-access-integration (Details TBD after IoT-Dir meeting)      | [draft-sarikaya-t2trg-sbootstrapping][sboot] |
+| 11:15 | Michael Richardson | Discussion of IoT operations/security management/onboarding/lifecycle/applications-network-access-integration (Details TBD after IoT-Dir meeting)      | [draft-sarikaya-t2trg-sbootstrapping][sboot] |
 | 12:00 |                 | end of meeting                                                                                                                                         |                                              |
 
 [WISHI]: https://github.com/t2trg/wishi/wiki/Agenda-items
